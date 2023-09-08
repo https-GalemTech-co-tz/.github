@@ -72,7 +72,7 @@
 
 <ul>
     <li><strong>Lead Developer Name</strong> - Role: Lead Software Developer, Skills: [List of skills]</li>
-    <li><strong>Front-end Developer Name</strong> - Role: Front-end Developer, Skills: [List of skills]</li>
+    <li><strong>Front-end Developer: Said S Hussein</strong> - Role: Front-end Developer, Skills: [Tailwind css, Bootstrap, Javascript, Html]</li>
     <li><strong>Back-end Developer Name</strong> - Role: Back-end Developer, Skills: [List of skills]</li>
 </ul>
 
