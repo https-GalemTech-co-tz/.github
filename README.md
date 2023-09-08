@@ -72,7 +72,7 @@
 
 <ul>
     <li><strong>Lead Developer Name</strong> - Role: Lead Software Developer, Skills: [List of skills]</li>
-    <li><strong>Front-end Developer: Said S Hussein</strong> - Role: Front-end Developer, Skills: [Tailwind css, Bootstrap, Javascript, Html]</li>
+    <li><strong>Front-end Developer: <b>Said S Hussein</b></strong> - Role: Front-end Developer, Skills: [Tailwind css, Bootstrap, Javascript, Html]</li>
     <li><strong>Back-end Developer Name</strong> - Role: Back-end Developer, Skills: [List of skills]</li>
 </ul>
 
@@ -93,7 +93,7 @@
 <h3>Graphics Designing Team</h3>
 
 <ul>
-    <li><strong>Lead Designer : Stivin Stanley </strong> - Role: Lead Graphics Designer, Skills: [Adobe Photoshop, Adobe Illustator , Adobe indesign and Adobe premierPro]</li>
+    <li><strong>Lead Designer : <b>Stivin Stanley</b> </strong> - Role: Lead Graphics Designer, Skills: [Adobe Photoshop, Adobe Illustator , Adobe indesign and Adobe premierPro]</li>
     <li><strong>Graphic Designer Name</strong> - Role: Graphic Designer, Skills: [List of skills]</li>
 </ul>
 
@@ -112,9 +112,9 @@
 <ul>
     <li><strong>Email:</strong> [galemtech@gmail.com]</li>
     <li><strong>Phone:</strong> [+255 685 796 723]</li>
-    <li><strong>Website:</strong> <a href="[www.galemtech.co.tz]">www.galem-tech.co.tz</a></li>
+    <li><strong>Website:</strong> <a href="[www.galemtech.co.tz]">www.galemtech.co.tz</a></li>
 </ul>
 
-<p>We look forward to serving your technology needs and delivering exceptional solutions that exceed your expectations. Thank you for choosing <strong>Company Name</strong>!</p>
+<p>We look forward to serving your technology needs and delivering exceptional solutions that exceed your expectations. Thank you for choosing <strong>GalemTech</strong>!</p>
 
 <p><em>Last updated: [Date]</em></p>
