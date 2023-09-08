@@ -1,12 +1,12 @@
 <h1>Introduction</h1>
 
-<p>Welcome to <strong>Galem-Technokogy</strong>! We are a versatile technology company specializing in a wide range of services including building and developing software applications, CCTV camera installation, networking installation, graphics designing, and mobile application development. This README.md file serves as a template to provide an overview of our company and the technology services we offer.</p>
+<p>Welcome to <strong>Galem-Technology</strong>! We are a versatile technology company specializing in a wide range of services including building and developing software applications, CCTV camera installation, networking installation, graphics designing, and mobile application development. This README.md file serves as a template to provide an overview of our company and the technology services we offer.</p>
 
 <h2>Services</h2>
 
 <h3>1. Software Application Development</h3>
 
-<p>At <strong>galemtech.co.tz>, we are passionate about creating innovative and efficient software applications tailored to meet the unique needs of our clients. Our team of experienced developers excels in:</p>
+<p>At <strong>galemtech.co.tz</strong>, we are passionate about creating innovative and efficient software applications tailored to meet the unique needs of our clients. Our team of experienced developers excels in:</p>
 
 <ul>
     <li>Front-end and Back-end Development</li>
@@ -112,7 +112,7 @@
 <ul>
     <li><strong>Email:</strong> [galemtech@gmail.com]</li>
     <li><strong>Phone:</strong> [+255 685 796 723]</li>
-    <li><strong>Website:</strong> <a href="[www.galem-tech.co.tz]">www.galem-tech.co.tz</a></li>
+    <li><strong>Website:</strong> <a href="[www.galemtech.co.tz]">www.galem-tech.co.tz</a></li>
 </ul>
 
 <p>We look forward to serving your technology needs and delivering exceptional solutions that exceed your expectations. Thank you for choosing <strong>Company Name</strong>!</p>
