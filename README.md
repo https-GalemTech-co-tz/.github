@@ -93,7 +93,7 @@
 <h3>Graphics Designing Team</h3>
 
 <ul>
-    <li><strong>Lead Designer Name</strong> - Role: Lead Graphics Designer, Skills: [List of skills]</li>
+    <li><strong>Lead Designer : Stivin Stanley </strong> - Role: Lead Graphics Designer, Skills: [Adobe Photoshop, Adobe Illustator , Adobe indesign and Adobe premierPro]</li>
     <li><strong>Graphic Designer Name</strong> - Role: Graphic Designer, Skills: [List of skills]</li>
 </ul>
 
