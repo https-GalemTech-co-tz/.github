@@ -2,6 +2,12 @@
 
 <p>Welcome to <strong>Galem-Technology</strong>! We are a versatile technology company specializing in a wide range of services including building and developing software applications, CCTV camera installation, networking installation, graphics designing, and mobile application development. This README.md file serves as a template to provide an overview of our company and the technology services we offer.</p>
 
+<h1>Mission Statement</h1>
+    <p>At GalemTech, our mission is to harness the power of technology to empower businesses and individuals, enabling them to thrive in an increasingly digital world. We are committed to delivering innovative and reliable technology solutions that drive efficiency, productivity, and growth. With a focus on excellence, integrity, and customer-centricity, we aim to be the go-to technology partner for our clients, helping them achieve their goals and stay ahead in the ever-evolving tech landscape.</p>
+
+<h1>Vision Statement</h1>
+    <p>GalemTech envisions a future where technology is an enabler of limitless possibilities. Our vision is to be at the forefront of technological advancements, shaping the digital landscape with cutting-edge solutions and services.</p>
+
 <h2>Services</h2>
 
 <h3>1. Software Application Development</h3>
